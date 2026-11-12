@@ -3,69 +3,98 @@
 ### Computer Science Engineer | AI & Machine Learning | Full-Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Software+Developer;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Intelligent+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Still+Learning%2C+Building+%26+Improving;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Software+Developer;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/harsh10099ht5">
-    <img src="https://komarev.com/ghpvc/?username=harsh10099ht5&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=harshittripathi-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Bhopal%2C%20India-success?style=flat-square" />
 </p>
 
 ---
 
-## Professional Summary
+## 💫 About Me
 
-I am a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning, with a strong interest in software engineering, full-stack development, and intelligent applications.
+I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning, interested in building intelligent applications and becoming a better software engineer.
 
-My focus is on transforming ideas into practical technology solutions through programming, problem-solving, and continuous learning.
+I enjoy exploring new technologies, solving programming problems, developing full-stack applications, and turning ideas into practical projects.
 
-- Pursuing B.Tech in Computer Science & Engineering (AI & ML).
-- Building full-stack web applications and backend systems.
-- Exploring Machine Learning, Deep Learning, and Data Science.
-- Strengthening Data Structures and Algorithms.
-- Interested in scalable applications and AI-powered solutions.
-- Open to technical collaborations, internships, and software development opportunities.
+- 🎓 Pursuing B.Tech in CSE (AI & ML).
+- 💻 Interested in Software Engineering and Full-Stack Development.
+- 🤖 Exploring Artificial Intelligence, Machine Learning and Generative AI.
+- 🧠 Practicing Data Structures & Algorithms.
+- 🚀 Building projects that solve real-world problems.
+- 🌱 Still learning, experimenting and improving every day.
+- 🤝 Open to internships, collaborations and learning opportunities.
 
 ---
 
-## Technical Skills
+## 🌐 Connect With Me
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,php" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Data Science & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Developer Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,postman" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshittripathi-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/harshittripathi-dev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://htripathi.rf.gd/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:harshittripathi1001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## Education
+## 💻 Tech Stack
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**AI, Machine Learning & Data Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Developer Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🎓 Education
 
 **Bachelor of Technology (B.Tech)**
 
@@ -76,12 +105,12 @@ My focus is on transforming ideas into practical technology solutions through pr
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 01. EventSphere
 **Intelligent Event Discovery & Recommendation Platform**
 
-A web-based platform designed to help users discover relevant events through content-based recommendation techniques.
+A web-based platform that helps users discover relevant events using content-based recommendation techniques.
 
 - Event discovery and management.
 - Personalized event recommendations.
@@ -95,13 +124,12 @@ A web-based platform designed to help users discover relevant events through con
 ### 02. NAYANTRA
 **Explainable AI for Diabetic Retinopathy Screening**
 
-An AI-driven healthcare screening project developed around Smart India Hackathon problem statement SIH26038.
+An AI-driven healthcare screening project based on Smart India Hackathon problem statement SIH26038.
 
 - Retinal image classification.
 - ResNet-18 transfer learning.
 - Grad-CAM-based explainability.
 - Retinal image preprocessing and analysis.
-- Model evaluation and class-wise performance analysis.
 
 **Tech Stack:** Python, MATLAB, Deep Learning, ResNet-18, Explainable AI.
 
@@ -114,14 +142,14 @@ A recruitment-oriented application designed to connect job seekers with employme
 - Recruitment-focused application workflow.
 - Web application development.
 
-**Tech Stack:** JavaScript, Web Technologies.
+**Tech Stack:** JavaScript, HTML, CSS.
 
 [View Repository](https://github.com/harshittripathi-dev/job-portal)
 
 ### 04. Campus Manager
 **Campus Administration Management System**
 
-A web-based application designed to simplify academic administration.
+A web application designed to simplify academic administration.
 
 - Student management.
 - Faculty management.
@@ -143,7 +171,7 @@ A job discovery platform focused on helping Indian students and freshers explore
 
 ---
 
-## Certifications & Professional Development
+## 📜 Certifications & Professional Development
 
 - AI with Security – 60-Hour Internship Programme.
 - Wipro Salesforce Training.
@@ -152,7 +180,7 @@ A job discovery platform focused on helping Indian students and freshers explore
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshittripathi-dev&theme=tokyonight" alt="GitHub Statistics" />
@@ -165,7 +193,7 @@ A job discovery platform focused on helping Indian students and freshers explore
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshittripathi-dev&theme=tokyonight" alt="GitHub Contribution Summary" />
@@ -173,11 +201,11 @@ A job discovery platform focused on helping Indian students and freshers explore
 
 ---
 
-## Current Focus & Development Roadmap
+## 🎯 Current Focus & Development Roadmap
 
 | Domain | Current Focus |
 |---|---|
-| Programming | Python, JavaScript, C++ |
+| Programming | Python, Java, C++ and JavaScript |
 | Problem Solving | Data Structures & Algorithms |
 | Frontend | React, HTML, CSS |
 | Backend | Node.js, Express.js, REST APIs |
@@ -185,6 +213,7 @@ A job discovery platform focused on helping Indian students and freshers explore
 | Machine Learning | Scikit-learn, Deep Learning |
 | Data Science | NumPy, Pandas |
 | Software Engineering | System Design, Git, Project Development |
+| Emerging Technologies | Generative AI and AI Agents |
 
 ### 2026 Goals
 
@@ -197,34 +226,21 @@ A job discovery platform focused on helping Indian students and freshers explore
 
 ---
 
-## Currently Building
+## 🔭 Currently Building & Exploring
 
 - **EventSphere:** Intelligent event discovery and recommendation system.
 - **NAYANTRA:** Explainable AI for diabetic retinopathy screening.
 - **AI Applications:** Exploring intelligent automation and AI-powered solutions.
-- **Software Projects:** Improving full-stack development and engineering practices.
+- **Software Engineering:** Improving problem-solving, backend development and application architecture.
 
 ---
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshittripathi-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://htripathi.rf.gd/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:harshittripathi1001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/harshittripathi-dev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 <p align="center">
   <b>Engineering Ideas into Intelligent Solutions.</b>
   <br/>
   <i>Learn. Build. Innovate. Improve.</i>
+</p>
+
+<p align="center">
+  <i>"The journey of a developer never stops at learning."</i>
 </p>
