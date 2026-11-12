@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshittripathi-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/harshittripathi-dev">
+    <img src="https://komarev.com/ghpvc/?username=harsh10099ht5&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Bhopal%2C%20India-success?style=flat-square" />
 </p>
